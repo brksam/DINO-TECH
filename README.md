@@ -14,7 +14,6 @@ Também é necessário baixar o Plugin para ver as tabelas:
 
 As telas foram feitos usando a biblioteca do swing disponível no java, ou seja, é uma interface desktop.
 
-
 ## Funcionalidades
 - Tela de login para o usuario entrar com seu usuario a senha.
 - Tela de criação de conta.
@@ -39,10 +38,6 @@ PARA O BANCO DE DADOS:
 - import java.util.logging.Level - Define um conjunto de níveis padrão de log que controlam a saída de mensagens de log;
 - import java.util.logging.Logger - É usado para registrar mensagens de aplicação no Java Logging API;
 
-<img src="Demonstração/BancoDee.mp4">
-
-
-
 PARA AS TELAS:
 - import javax.swing.* - Biblioteca que fornece os metodos para criação de botões, textos, cores, scrolls e tudo que seja necessário para fazer as telas. Só é possível utilizar as outras bibliotecas para essas ações por conta do swing, mas como são muitas, serão citadas apenas algumas.
 - import java.awt.event.ActionEvent - Usada para ações de botões, etc;
@@ -50,7 +45,7 @@ PARA AS TELAS:
 - import java.util.ArrayList- Usada para armazenar uma quantidade de itens;
 - import java.awt.event.WindowAdapter - Usada para receber eventos de janela em Java, fornecendo métodos vazios para todos os eventos de interesse;
 - import java.awt.datatransfer.Clipboard - Usada para implementar um mecanismo de transferência de dados usando operações de corte/cópia/cola;
-
+- 
 ## Contribuidores
 - @brksam
 - @migueelfr
@@ -58,3 +53,13 @@ PARA AS TELAS:
 ## Final
 Este é um projeto bem simples da Faculdade, não possui funcionalidades impressionantes ou uma interface excelente, foi apenas algo para testar nosso conhecimento basico em java.
 OBRIGADO PELA ATENÇÃO!!!
+
+## Interface Rodando 
+
+https://github.com/brksam/DINO-TECH/assets/123503422/945b8e49-78ca-4875-b54d-8c9da83c2f1c
+
+https://github.com/brksam/DINO-TECH/assets/123503422/d9d04bbe-375e-44c6-8c6c-bd9f639e388e
+
+
+
+
